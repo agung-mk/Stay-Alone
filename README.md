@@ -1,10 +1,10 @@
-# WebBucin-V6
+# W
 Web Bucin V6 yang saya buat khusus buat orang tercinta &amp; tersayang.
 repo ini cocok buat klean yang ingin merayakan anniversary hubungan klean / bisa juga dipake buat merayakan ulang tahun kerabat / kolega klean wkkwkkwkw.
 sok monggo gaskeun difork ea :D
 
 # Demo Site
- <a target="_blank" href="https://wafarifki.github.io/WebBucin-V6/">https://wafarifki.github.io/WebBucin-V6/</a> 
+ <a target="_blank" href="https://agung-mk.github.io/webs-bucin/">https://agung-mk.github.io/webs-bucin/</a> 
  
 # List Repo Web Bucin
 - <a target="_blank" href="https://github.com/wafarifki/WebBucin-V1">https://github.com/wafarifki/WebBucin-V1</a>

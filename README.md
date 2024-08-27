@@ -1,7 +1,6 @@
 # W
-Web Bucin V6 yang saya buat khusus buat orang tercinta &amp; tersayang.
-repo ini cocok buat klean yang ingin merayakan anniversary hubungan klean / bisa juga dipake buat merayakan ulang tahun kerabat / kolega klean wkkwkkwkw.
-sok monggo gaskeun difork ea :D
+Web Bucin yang saya buat khusus buat orang tercinta &amp; tersayang.
+repo ini cocok buat kalian yang ingin merayakan anniversary hubungan kalian.
 
 # Demo Site
  <a target="_blank" href="https://agung-mk.github.io/webs-bucin/">https://agung-mk.github.io/webs-bucin/</a> 

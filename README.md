@@ -28,10 +28,8 @@ Feel free to reach out or connect with me on various platforms:
 - **`style.css`**: The CSS file for styling the website, including layout and design.
 - **`script.js`**: The JavaScript file for interactive features and functionality.
 
-## 🛠️ Installation & Setup
+### 💐 Support 
 
-To run this project locally, follow these steps:
+If you find this project useful and want to provide support, you can donate via [Saweria](https://saweria.co/GeniusAI).
 
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/agung-mk/Bucin-Website.git
+Website:  [Agung](https://agung-dev.my.id).

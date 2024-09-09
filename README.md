@@ -1,12 +1,14 @@
 # 🌹 Bucin Website: For Your Loved One 🌹
 
-This Bucin Website is specially made for your loved ones. This repository is perfect for those who want to celebrate their anniversary in a special way.
+Welcome to the Bucin Website repository! This project is designed to create a special and personalized experience for your loved ones, perfect for celebrating anniversaries or other significant occasions.
 
-## 🌐 Demo Website
-Check out the demo of this website by visiting [Demo Site](https://agung-mk.github.io/Bucin-Website/).
+## 🌐 Live Demo
 
-## 📞 Let's Connect!
-Find me on various platforms:
+Experience the website live by visiting the [Demo Site](https://agung-mk.github.io/Bucin-Website/). See how the website looks and functions in real-time.
+
+## 📞 Connect with Me
+
+Feel free to reach out or connect with me on various platforms:
 
 <p align="left">
     <a href="https://agung-dev.my.id" target="_blank">
@@ -19,3 +21,17 @@ Find me on various platforms:
         <img src="https://img.shields.io/badge/Instagram-@siagungg_-blue?" alt="Instagram">
     </a>
 </p>
+
+## 📂 Repository Structure
+
+- **`index.html`**: The main HTML file containing the structure of the website.
+- **`style.css`**: The CSS file for styling the website, including layout and design.
+- **`script.js`**: The JavaScript file for interactive features and functionality.
+
+## 🛠️ Installation & Setup
+
+To run this project locally, follow these steps:
+
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/agung-mk/Bucin-Website.git

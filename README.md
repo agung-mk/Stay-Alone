@@ -9,7 +9,7 @@ Check out the demo of this website by visiting [Demo Site](https://agung-mk.gith
 Find me on various platforms:
 
 <p align="left">
-    <a href="https://agungdev.my.id" target="_blank">
+    <a href="https://agung-dev.my.id" target="_blank">
         <img src="https://img.shields.io/badge/Website-Visit-blue?" alt="Website">
     </a>
     <a href="https://www.facebook.com/agung.mahesa.3760" target="_blank">

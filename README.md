@@ -3,7 +3,7 @@
 This Bucin Website is specially made for your loved ones. This repository is perfect for those who want to celebrate their anniversary in a special way.
 
 ## 🌐 Demo Website
-Check out the demo of this website by visiting [Demo Site](https://agung-mk.github.io/webs-bucin/).
+Check out the demo of this website by visiting [Demo Site](https://agung-mk.github.io/Bucin-Website/).
 
 ## 📞 Let's Connect!
 Find me on various platforms:
